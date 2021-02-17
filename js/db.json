@@ -1,0 +1,131 @@
+[    
+    {
+        "id": 0,
+        "nombre": "Quilmes Cristal",
+        "precio": 50,
+        "imagen": "https://i.ibb.co/wp4b6gk/quilmesC.png",
+        "tipo": "rubia" 
+    },
+    {
+        "id": 1,
+        "nombre": "Quilmes Stout",
+        "precio": 55,
+        "imagen": "https://i.ibb.co/bHhhMY7/stout.jpg",
+        "tipo":"negra"
+    },
+    {
+        "id": 2,
+        "nombre": "Brahma",
+        "precio": 50,
+        "imagen": "https://i.ibb.co/bzBZdBZ/7792798005888-02.png",
+        "tipo": "rubia"
+    },
+    {
+        "id": 3,
+        "nombre": "Schneider",
+        "precio": 50,
+        "imagen": "https://i.ibb.co/4tmc3Sx/IMG-8394.jpg",
+        "tipo": "rubia"
+    },
+    {
+        "id": 4,
+        "nombre": "Heineken",
+        "precio": 60,
+        "imagen": "https://i.ibb.co/413NxJH/cerveza-heineken-lager-473cc.jpg",
+        "tipo": "rubia"
+    },
+    {
+        "id": 5,
+        "nombre": "Andes Origen",
+        "precio": 92,
+        "imagen": "https://i.ibb.co/DVQL4Gr/andes-origen-rubia-473-cc1-cbc3f6b4d6e047e3eb15900687161119-640-0.jpg",
+        "tipo": "rubia"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Andes Origen Negra",
+        "precio": 92,
+        "imagen": "https://i.ibb.co/bR86Bj8/andes-origen-negra1-787135380da453761715569034738080-640-0.jpg",
+        "tipo":"negra"
+    },
+    {
+        "id": 7,
+        "nombre": "Andes Origen Roja",
+        "precio": 92,
+        "imagen": "https://i.ibb.co/KDXGT5t/andes-roja-lata1-71f4c5049d259682ce15902469182573-640-0.jpg",
+        "tipo": "artesanal"
+    },
+    {
+        "id": 8,
+        "nombre": "Andes Origen Trigueña",
+        "precio": 100,
+        "imagen": "https://i.ibb.co/XshQjxq/Imagen521-b439e6734664a5b27c15854037805761-1024-1024.jpg",
+        "tipo": "artesanal"
+    },
+    {
+        "id": 9,
+        "nombre": "Patagonia Amber Lager",
+        "precio": 105,
+        "imagen": "https://i.ibb.co/mcMssMT/cerveza-patagonia-amber-lager-473ml1-04ed032175080a536915859457774813-640-0.jpg",
+        "tipo": "artesanal"
+    },
+    {
+        "id": 10,
+        "nombre": "Patagonia Weisse",
+        "precio": 105,
+        "imagen": "https://i.ibb.co/Lt9qGcy/Weisse1-93e8deec0e3e2dbb9315919930082106-1024-1024.jpg",
+        "tipo": "artesanal"
+    },
+    {
+        "id": 11,
+        "nombre": "Patagonia 24.7",
+        "precio": 100,
+        "imagen": "https://i.ibb.co/0cyJSD6/7792798001972-02-nuevopack.png",
+        "tipo": "artesanal"
+    },
+    {
+        "id": 12,
+        "nombre": "Warsteiner",
+        "precio": 77,
+        "imagen": "https://i.ibb.co/VtVVBc1/IMG-8160.jpg",
+        "tipo": "rubia"
+    },
+    {
+        "id": 13,
+        "nombre": "Stella Artois",
+        "precio": 70,
+        "imagen": "https://i.ibb.co/6NrWZky/Sec-stella-artois-lata-473-lager-new-1000x.jpg",
+        "tipo": "rubia"
+    },
+    {
+        "id": 14,
+        "nombre": "Stella Artois Noire",
+        "precio": 70,
+        "imagen": "https://i.ibb.co/5nLZ9kq/cerveza-stella-artois-noire-lata-473-ml1-0f93a1557e7d63eec116001684143856-640-0.jpg",
+        "tipo":"negra"
+    },
+
+    {
+        "id": 15,
+        "nombre": "Imperial Lager",
+        "precio": 70,
+        "imagen": "https://i.ibb.co/KzrZgnd/cervezas-imperial-lager-lata-710ml1-1993f3a74f6642d84115946726651744-640-0.jpg",
+        "tipo": "rubia"
+    },
+    {
+        "id": 16,
+        "nombre": "FAXE IPA",
+        "precio": 180,
+        "imagen": "https://i.ibb.co/2yrcGF2/ci-fax-laip-0050-1.jpg",
+        "tipo": "artesanal"
+    },
+    {
+        "id": 17,
+        "nombre": "FAXE 10%",
+        "precio": 195,
+        "imagen": "https://i.ibb.co/nRpr9J1/FAXE-10-500-CC-500cc-1.jpg",
+        "tipo": "artesanal"
+    }
+    
+]

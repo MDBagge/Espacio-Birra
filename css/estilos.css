@@ -270,3 +270,6 @@ input:-moz-placeholder {
 .noMostrar{
 	display: none;
 }
+body{
+	margin: 0;
+}

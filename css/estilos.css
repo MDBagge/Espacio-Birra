@@ -16,6 +16,7 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: bottom;
+    margin: 0;
 }
 .container-fluid{
     background: url("beer-554619_1920.jpg");
